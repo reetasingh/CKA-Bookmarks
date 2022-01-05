@@ -1,5 +1,5 @@
 # CKA-Bookmarks
-Bookmark file for reference notes for Certified Kubernetes Administrator exam Supports Kubernetes v1.21
+Bookmark file for reference notes for Certified Kubernetes Administrator exam.  Supports Kubernetes v1.21
 - Find the code to copy paste quickly
 - Bookmark is sorted alphabetically (so you dont have to spend time in finding the right bookmark )
 - Links take to exact code to copy
