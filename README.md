@@ -6,8 +6,8 @@ Bookmark file for reference notes for Certified Kubernetes Administrator exam.  
 
 
 # Steps to use the bookmark
-
-import bookmarks file named CKA_bookmarks.html directly in chrome browser
+- import bookmarks file named CKA_bookmarks.html directly in chrome browser
+- Bookmarks -> Import Bookmarks and Settings -> Select Bookmarks. HTML file -> Import
 
 ![Screen Shot 2022-01-04 at 9 34 50 PM](https://user-images.githubusercontent.com/14129300/148165759-c49cd2e1-bdd6-413f-a042-098fd182537a.png)
 
